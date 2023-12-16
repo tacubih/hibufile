@@ -4,3 +4,7 @@ DOMAIN-SUFFIX,linecorp.com,Line
 DOMAIN-SUFFIX,line-scdn.net,Line
 DOMAIN-SUFFIX,line.me,Line
 DOMAIN-SUFFIX,line-apps.com,Line
+
+# > Mercari
+DOMAIN-SUFFIX,mercari.jp,Mercari
+DOMAIN-SUFFIX,mercdn.net,Mercari
