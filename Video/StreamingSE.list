@@ -1,27 +1,27 @@
 # > StreamingSE
 # > Bilibili
-DOMAIN,api.biliapi.com,SEMedia
-DOMAIN,api.biliapi.net,SEMedia
-DOMAIN,api.bilibili.com,SEMedia
-DOMAIN,app.biliapi.com,SEMedia
-DOMAIN,app.biliapi.net,SEMedia
-DOMAIN,app.bilibili.com,SEMedia
-DOMAIN,grpc.biliapi.net,SEMedia
-DOMAIN,m.bilibili.com,SEMedia
-DOMAIN,upos-hz-mirrorakam.akamaized.net,SEMedia
-DOMAIN-KEYWORD,cn-hk-eq-bcache-,SEMedia
+DOMAIN,api.biliapi.com,StreamingSE
+DOMAIN,api.biliapi.net,StreamingSE
+DOMAIN,api.bilibili.com,StreamingSE
+DOMAIN,app.biliapi.com,StreamingSE
+DOMAIN,app.biliapi.net,StreamingSE
+DOMAIN,app.bilibili.com,StreamingSE
+DOMAIN,grpc.biliapi.net,StreamingSE
+DOMAIN,m.bilibili.com,StreamingSE
+DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingSE
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,StreamingSE
 
 # > IqiyiTW
-DOMAIN,cache.video.iqiyi.com,SEMedia
-IP-CIDR,116.211.202.206/32,SEMedia
-IP-CIDR,116.211.202.216/32,SEMedia
+DOMAIN,cache.video.iqiyi.com,StreamingSE
+IP-CIDR,116.211.202.206/32,StreamingSE
+IP-CIDR,116.211.202.216/32,StreamingSE
 
 # > MGTV
-DOMAIN-SUFFIX,api.mgtv.com,SEMedia
-DOMAIN,mobileso.bz.mgtv.com,SEMedia
+DOMAIN-SUFFIX,api.mgtv.com,StreamingSE
+DOMAIN,mobileso.bz.mgtv.com,StreamingSE
 
 # > WeTV
-USER-AGENT,WeTV*,SEMedia
-DOMAIN-SUFFIX,wetv.vip,SEMedia
-DOMAIN-SUFFIX,wetvinfo.com,SEMedia
-IP-CIDR,150.109.28.51/32,SEMedia
+USER-AGENT,WeTV*,StreamingSE
+DOMAIN-SUFFIX,wetv.vip,StreamingSE
+DOMAIN-SUFFIX,wetvinfo.com,StreamingSE
+IP-CIDR,150.109.28.51/32,StreamingSE
