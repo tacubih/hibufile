@@ -1,0 +1,26 @@
+# > Bilibili
+DOMAIN,api.biliapi.com,SEMedia
+DOMAIN,api.biliapi.net,SEMedia
+DOMAIN,api.bilibili.com,SEMedia
+DOMAIN,app.biliapi.com,SEMedia
+DOMAIN,app.biliapi.net,SEMedia
+DOMAIN,app.bilibili.com,SEMedia
+DOMAIN,grpc.biliapi.net,SEMedia
+DOMAIN,m.bilibili.com,SEMedia
+DOMAIN,upos-hz-mirrorakam.akamaized.net,SEMedia
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,SEMedia
+
+# > IqiyiTW
+DOMAIN,cache.video.iqiyi.com,SEMedia
+IP-CIDR,116.211.202.206/32,SEMedia
+IP-CIDR,116.211.202.216/32,SEMedia
+
+# > MGTV
+DOMAIN-SUFFIX,api.mgtv.com,SEMedia
+DOMAIN,mobileso.bz.mgtv.com,SEMedia
+
+# > WeTV
+USER-AGENT,WeTV*,SEMedia
+DOMAIN-SUFFIX,wetv.vip,SEMedia
+DOMAIN-SUFFIX,wetvinfo.com,SEMedia
+IP-CIDR,150.109.28.51/32,SEMedia
