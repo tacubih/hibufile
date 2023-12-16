@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,line-apps.com,Line
 # > Mercari
 DOMAIN-SUFFIX,mercari.jp,Mercari
 DOMAIN-SUFFIX,mercdn.net,Mercari
+
+# > NHK+
+DOMAIN-SUFFIX,nhk.jp,NHK+
